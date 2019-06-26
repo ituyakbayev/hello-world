@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+/*
 // Vertex is the good
 type Vertex struct {
 	X, Y int
@@ -19,4 +20,9 @@ func main() {
 	v3 = *p
 	fmt.Println(v1, p, v2, v3)
 	fmt.Println(p)
+}
+*/
+
+func main() {
+	fmt.Println("Hello World!")
 }
